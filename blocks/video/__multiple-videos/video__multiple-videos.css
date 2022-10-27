@@ -3,3 +3,7 @@
     margin: 0 auto;
     margin-bottom: 98px;
 }
+
+.video__multiple-videos:last-of-type {
+    margin-bottom: 0;
+}
